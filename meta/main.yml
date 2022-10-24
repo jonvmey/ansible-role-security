@@ -20,7 +20,7 @@ galaxy_info:
     - name: Ubuntu
       versions:
         - all
-    - name: ArchLinux
+    - name: Archlinux
       versions:
         - all
   galaxy_tags:
